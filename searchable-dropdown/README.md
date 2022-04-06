@@ -28,6 +28,7 @@
 - 控制频次 throttle/debounce https://www.cnblogs.com/hity-tt/p/7852888.html
 
 ![pinyin search](pinyin-search.gif)
+
 针对中文的环境还有个拼音搜索的优化
 - 拼音插件 https://github.com/medcl/elasticsearch-analysis-pinyin
 - 示例项目 https://github.com/postor/elasticsearch-node-example
